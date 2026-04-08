@@ -1,5 +1,16 @@
 # Changelog
 
+## \[2.11.0]
+
+### New Features
+
+- [`b27be063f`](https://www.github.com/tauri-apps/tauri/commit/b27be063ff3052cb1071ac3ec719cfa104460fa4) ([#14925](https://www.github.com/tauri-apps/tauri/pull/14925) by [@lanyeeee](https://www.github.com/tauri-apps/tauri/../../lanyeeee)) Add `eval_with_callback` to the Tauri webview APIs and runtime dispatch layers.
+- [`093e2b47c`](https://www.github.com/tauri-apps/tauri/commit/093e2b47c01361c18783e9ff18750388e41650c5) ([#14484](https://www.github.com/tauri-apps/tauri/pull/14484) by [@lucasfernog](https://www.github.com/tauri-apps/tauri/../../lucasfernog)) Support creating multiple windows on Android (activity embedding) and iOS (scenes).
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.9.0`
+
 ## \[2.10.1]
 
 ### Dependencies
